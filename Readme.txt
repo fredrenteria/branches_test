@@ -1,0 +1,1 @@
+Utiliza esta rama para mantener una versión estable del sistema en producción.
