@@ -1,0 +1,1 @@
+Usa esta rama para mantener una versión estable de pruebas de usuario del sistema.
